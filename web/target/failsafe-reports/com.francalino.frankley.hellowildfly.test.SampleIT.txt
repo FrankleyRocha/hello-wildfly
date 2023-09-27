@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.francalino.frankley.hellowildfly.test.SampleIT
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.820 s -- in com.francalino.frankley.hellowildfly.test.SampleIT
